@@ -1,0 +1,2 @@
+# zphisher-
+A beginners friendly, Automated ph!$hing tool with 30+ templates.  Installation  $ apt update  $ apt upgrade  $ apt install python  $ apt install git  $ git clone git://github.com/htr-tech/zphisher.git   Change to cloned directory and run   $ zphisher.sh  $ cd zphisher   $ bash zphisher.sh   On first launch, It'll install the dependencies and that's it. Zph!$her is installed.    Hello friends! Download Termux most working and new commands app.👇 https://play.google.com/store/apps/details?id=com.termux.command.and.usage.af
